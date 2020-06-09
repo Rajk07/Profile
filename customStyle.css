@@ -1,0 +1,88 @@
+.title-secondary{
+		color: #327fa8;
+		font-weight: 700;
+}
+.role{
+		font-size:20px;
+}
+.profile-pic{
+	border-radius: 50%;
+	width: 75%;
+	margin-top: 50px;
+}
+
+.resume-outer{
+		/*border: 1px solid;*/
+		margin: 100px;
+}
+
+.resume-header{
+	
+}
+
+.thick-font{
+font-weight: 700;	
+}
+
+.section-part-title{
+	font-size: 150%;
+}
+
+.section-content{
+		border-bottom: 1px dashed;
+		margin-bottom: 10px;
+}
+.section-header{
+	margin-bottom: 10px;
+	border-bottom: 2px solid;
+}
+
+/*for normal view of unordered bullet list  */
+
+ul:not(.browser-default) {
+    padding-left: 30px !important;
+}
+
+ul:not(.browser-default) > li {
+    list-style-type: disc !important;
+}
+
+.color-secondary{
+	color: #327fa8;
+}
+
+.author{
+	text-align: right;
+	font-weight: 600;
+}
+
+.section-part-heading{
+	color: #327fa8;
+	text-transform: uppercase;
+	font-size: 2rem;
+	margin-bottom: 30px; 
+}
+.section-part-body{
+	border-bottom: 1px dashed;
+}
+
+.tech{
+	margin: 5px;
+	font-weight: 600 ;
+	display: inline;
+	border-bottom: 1px solid;
+}
+
+.chips-container{
+	margin-bottom: 10px;
+}
+
+.course{
+		margin-bottom: 10px;
+		border-bottom: 1px dashed;
+}
+
+.icon-same-line{
+		display: inline;
+		margin-right: 30px;
+}
